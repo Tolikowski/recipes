@@ -1,2 +1,9 @@
 # The Odin Project Recipes Project
-A Website with different recipes to cook.
+A collection of my favourite Russian dishes.
+- Pelmeni
+- Okroshka
+- Borsht
+- Olivier
+- Pirozhki
+
+Enjoy!
