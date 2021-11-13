@@ -10,7 +10,11 @@ body {
 .content {
     display: flex;
     flex-direction: column;
-    min-width: 600px;
+    width: 600px;
+}
+
+p {
+    text-align: left;
 }
 
 .recipes {
